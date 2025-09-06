@@ -1,4 +1,5 @@
 # 🏪 OWSB Management System
+![image alt](https://github.com/kianseng40833/OWSB-ERP-Management-System/blob/main/ERP%20Management%20System.png?raw=true)
 
 ## 📌 Introduction
 **Omega Wholesale Sdn Bhd (OWSB)** is a fake retail company in Malaysia, specializing in groceries, fresh produce, and essential goods. As the business grows, manual management became inefficient and error-prone.  
@@ -40,5 +41,6 @@ This project is a **GUI-based Java ERP Management System**, developed using **Ja
 - **Text File Storage** → Persistent data storage (no database required)
 
 ---
+
 
 
