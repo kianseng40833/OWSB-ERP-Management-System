@@ -1,0 +1,6 @@
+UserRoleID,UserRole
+ur_id1,Admin
+ur_id2,Sales Manager
+ur_id3,Purchase Manager
+ur_id4,Finance Manager
+ur_id5,Inventory Manager

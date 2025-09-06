@@ -1,0 +1,5 @@
+SupplyItemID,Payment_ID,Item_ID,Item_Name, Quantity_Ordered,Quantity_Received,SuppliedDate,Status
+SI_PO1_I7147_001,P001,I7147,Sprite,3000,3000,2024-06-01,Completed
+SI_PO2_I5C9E_001,P002,I5C9E,Coca cola,1000,1000,2024-06-01,Completed
+SI_PO4_I7147_001,P003,I7147,Sprite,200,0,,Pending Delivery
+SI_PO5_I5C9E_001,P005,I5C9E,Coca cola,1000,0,,Pending Delivery

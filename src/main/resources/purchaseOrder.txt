@@ -1,0 +1,5 @@
+PO_ID,PR_ID,Quantity,Date,Status,TotalAmount
+PO1,PR_id1,3000,2024-06-02,Approved,9000.00
+PO2,PR_id2,1000,2024-06-02,Approved,2000.00
+PO4,PR_id4,200,2025-06-02,Approved,600.00
+PO5,PR_id5,1000,2025-06-02,Pending,2000.00

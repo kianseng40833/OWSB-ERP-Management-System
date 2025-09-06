@@ -1,0 +1,7 @@
+CategoryID,CategoryName
+C_ID1,Beverage
+C_ID2,Fresh Product
+C_ID3,Snacks
+C_ID4,Dry Goods
+C_ID5,Meats & Seafood
+C_ID6,Canned Food

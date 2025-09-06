@@ -1,0 +1,3 @@
+SupplierID,SupplierCompanyName,Contact,Email,PIC,ItemID,ItemSupplied,Cost,Stock,Status
+S001,Coca cola,0102103923,CocaColaSDNBHD@gmail.com,Mr.Lee,I5C9E,Coca cola,2.0,Active
+S002,Sprite,1021123,SpirtSDNBHD@gmail.com,Mr.Wong,I7147,Sprite,3.0,Active

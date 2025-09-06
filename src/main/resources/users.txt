@@ -1,0 +1,6 @@
+UserID,UserName,Password,UserRoleID,Email,Email Password ,PhoneNumber
+u_id1,leong,1234,ur_id1,leongzeg1@gmail.com,1234,0102108236
+u_id2,leong1,1234,ur_id2,leongzeg2@gmail.com,1234,010 2108236
+u_id3,leong2,1234,ur_id3,leongzeg3@gmail.com,1234,010 2108237
+u_id4,leong3,1234,ur_id4,leongzeg4@gmail.com,4321,010 2108236
+u_id5,leong4,1234,ur_id5,leongzeg5@gmail.com,4321,010 2108236

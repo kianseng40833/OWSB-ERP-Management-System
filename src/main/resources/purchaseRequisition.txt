@@ -1,0 +1,6 @@
+pr_id,item_id,stock,supplier_id,date,pic,status,remarks
+PR_id1,I7147,0,S002,2024-06-02,leong,Approved,
+PR_id2,I5C9E,461,S001,2024-06-02,leong,Approved,
+PR_id3,I5C9E,461,S001,2025-06-02,leong,Pending,
+PR_id4,I7147,470,S002,2025-06-02,leong,Approved,
+PR_id5,I5C9E,490,S001,2025-06-02,leong,Pending,

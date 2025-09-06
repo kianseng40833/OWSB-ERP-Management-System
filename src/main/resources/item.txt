@@ -1,0 +1,3 @@
+ItemID,ItemName,Price,Quantity,StorageStock,Category,Brand,imageID
+I5C9E,Coca cola,4.00,490,5961,Snacks,Coca cola,I5C9E.jpeg
+I7147,Sprite,4.00,470,2500,Beverage,Sprite,I7148.png

@@ -1,0 +1,3 @@
+receiptNo,date,itemId,itemName,quantitySold,unitPrice,totalPrice,salesPIC,customerName
+R000001,2024-06-02,I5C9E,Coca cola,10,4.00,40.00,leong,
+R000002,2024-06-02,I7147,Sprite,30,4.00,120.00,leong,
